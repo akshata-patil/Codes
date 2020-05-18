@@ -1,2 +1,2 @@
 # Codes
-This repository contains all the codes for references.
+This repository contains codes of the mentioned references references.
